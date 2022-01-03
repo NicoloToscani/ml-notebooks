@@ -1,0 +1,11 @@
+@RELATION xor
+
+@ATTRIBUTE x-val		real
+@ATTRIBUTE y-val 	real
+@ATTRIBUTE class 	{0,1}
+
+@DATA
+0,0,0
+1,0,1
+0,1,1
+1,1,0
