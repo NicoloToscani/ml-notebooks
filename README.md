@@ -11,4 +11,4 @@ In order for the application to work, the following steps must be followed:
 - Connect variables for energy measures visualization
 
 
-![powerlogic-config](EdgePowerLogicSettings.png)
+![dryer3-down](Dryer 3 down.png)
